@@ -1,0 +1,7 @@
+/* CSS declarations go here */
+@media (-webkit-min-device-pixel-ratio: 3) { 
+  body {
+    background: red;
+  }
+}
+
